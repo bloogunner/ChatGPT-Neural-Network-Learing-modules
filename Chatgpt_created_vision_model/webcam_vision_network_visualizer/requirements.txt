@@ -1,0 +1,6 @@
+# Tested conceptually against the public TensorFlow / Keras 2.x API.
+# Use a new Python 3.12 virtual environment on Windows.
+tensorflow>=2.16,<2.22
+numpy>=1.26,<3
+opencv-python>=4.8,<5
+Pillow>=10,<13
